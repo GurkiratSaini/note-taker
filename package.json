@@ -18,5 +18,8 @@
     "url": "https://github.com/GurkiratSaini/note-taker/issues"
   },
   "homepage": "https://github.com/GurkiratSaini/note-taker#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
 }

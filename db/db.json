@@ -1,1 +1,17 @@
-[{"title":"Test Title","text":"Test text"}]
+[
+    {
+        "title": "Test Title",
+        "text": "Test text",
+        "id": 1
+    },
+    {
+        "title": "Testing POST request",
+        "text": "This is just to test a POST request. See if console log works.",
+        "id": 1620567825098
+    },
+    {
+        "title": "Testing POST request 2",
+        "text": "This is just to test a POST request. See if console log works. 2",
+        "id": 1620567914043
+    }
+]
