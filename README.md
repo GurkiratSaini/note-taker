@@ -6,6 +6,9 @@
 
   Deployed Application Link: https://infinite-shore-63201.herokuapp.com/
 
+  ## Preview
+  ![Screenshot](./public/assets/images/screenshot.png?raw=true)
+
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
